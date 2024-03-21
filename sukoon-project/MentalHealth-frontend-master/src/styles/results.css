@@ -1,0 +1,14 @@
+.results-container {
+    width: 100%;
+    height: 100%;
+    padding: 18vh 0 3vh 5vh;
+    background-image: linear-gradient(rgb(212, 228, 243), rgb(204, 232, 236),rgb(238, 249, 201));
+}
+
+.resultcards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
